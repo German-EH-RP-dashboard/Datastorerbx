@@ -1,0 +1,32 @@
+{
+  "players": [
+    {
+      "username": "Max123",
+      "displayName": "Max",
+      "userId": 123456789,
+      "rank": "Player",
+      "wantedLevel": 2,
+      "hasBan": false,
+      "rpViolation": true,
+      "actions": {
+        "robbed": true,
+        "hostageTaken": false
+      },
+      "info": "Hat einen Laden ausgeraubt"
+    },
+    {
+      "username": "LenaPro",
+      "displayName": "Lena",
+      "userId": 987654321,
+      "rank": "Police",
+      "wantedLevel": 0,
+      "hasBan": false,
+      "rpViolation": false,
+      "actions": {
+        "robbed": false,
+        "hostageTaken": false
+      },
+      "info": "Polizistin im Dienst"
+    }
+  ]
+}
